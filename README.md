@@ -1,5 +1,7 @@
 # Mosaico - Responsive Email Template Editor
 
+[![Join the chat at https://gitter.im/bwl21/mosaico](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bwl21/mosaico?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Mosaico is a javascript library (or maybe a single page application) supporting the editing of email templates.
 The great thing is that Mosaico itself does not define what you can edit or what styles you can change: this is defined by the template. This makes Mosaico very flexible.
 
